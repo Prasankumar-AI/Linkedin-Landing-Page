@@ -35,4 +35,3 @@ This project showcases a professional transition from core Java development to s
 - `assets/`: Optimized visual components.
 
 ---
-*Created with ❤️ by Antigravity for the PromptWar Challenge.*
